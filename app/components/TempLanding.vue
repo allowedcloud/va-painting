@@ -10,18 +10,14 @@
         Coming soon...
       </h1>
       <p class="mt-4 text-base text-gray-600">
-        <span class="block">
-          We're putting the final brushstrokes on our <span class="whitespace-nowrap">new site.</span>
-        </span>
         <span class="mt-3 block">
-          Call
           <a
             class="classic-link font-semibold"
             href="tel:+17578176259"
           >
             (757) 817-6259
           </a>
-          anytime for a free estimate and let's get your next project glowing.
+          &nbsp; for a free estimate and let's get your next project glowing.
         </span>
       </p>
     </div>
