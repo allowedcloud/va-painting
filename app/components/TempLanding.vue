@@ -30,7 +30,7 @@
 }
 
 .classic-link {
-  color: #0000ee;
+  color: #2e3192;
   text-decoration: underline;
 }
 
