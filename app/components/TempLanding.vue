@@ -2,7 +2,7 @@
   <div class="min-h-screen flex items-center justify-center">
     <div class="px-6 w-full max-w-lg sm:max-w-xl text-center brand-font">
       <img
-        class="w-full h-auto"
+        class="mx-auto w-64 h-auto"
         src="/images/logo-final.png"
         alt="VA Painting logo"
       >
