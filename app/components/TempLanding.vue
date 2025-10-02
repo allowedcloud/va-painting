@@ -2,14 +2,10 @@
   <div class="flex flex-col flex-1">
     <div class="flex-1 flex flex-col items-center justify-center px-6 py-12 text-center brand-font">
       <div class="relative w-full max-w-xl mb-28">
-        <NuxtImg
+        <img
           class="block w-full h-auto rounded-t-lg mb-1"
           src="/images/michael-painting.jpg"
-          format="webp"
-          preload
-          loading="eager"
-          fetch-priority="high"
-        />
+        >
         <div class="pointer-events-none absolute inset-x-0 bottom-0 h-[100px] bg-gradient-to-t from-white via-white/70 to-transparent" />
         <img
           class="absolute left-1/2 bottom-0 w-48 max-w-[70%] -translate-x-1/2 translate-y-1/2 drop-shadow-md"
